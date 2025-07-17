@@ -1,0 +1,107 @@
+{
+  "extends": [
+    "next/core-web-vitals",
+    "plugin:@typescript-eslint/recommended"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "plugins": [
+    "@typescript-eslint"
+  ],
+  "rules": {
+    "@typescript-eslint/no-unused-vars": [
+      "warn",
+      {
+        "argsIgnorePattern": "^_"
+      }
+    ],
+    "@typescript-eslint/no-explicit-any": "warn",
+    "@typescript-eslint/explicit-function-return-type": "off",
+    "react-hooks/rules-of-hooks": "error",
+    "react-hooks/exhaustive-deps": "warn",
+    "no-console": "off",
+    "no-debugger": "warn",
+    "quotes": [
+      "warn",
+      "single",
+      {
+        "avoidEscape": true
+      }
+    ],
+    "semi": [
+      "warn",
+      "never"
+    ],
+    "indent": [
+      "warn",
+      2
+    ],
+    "comma-dangle": [
+      "warn",
+      "always-multiline"
+    ],
+    "arrow-parens": [
+      "warn",
+      "as-needed"
+    ],
+    "object-curly-spacing": [
+      "warn",
+      "always"
+    ],
+    "array-bracket-spacing": [
+      "warn",
+      "never"
+    ],
+    "jsx-quotes": [
+      "warn",
+      "prefer-single"
+    ],
+    "no-multiple-empty-lines": [
+      "warn",
+      {
+        "max": 2,
+        "maxEOF": 1
+      }
+    ],
+    "eol-last": "warn",
+    "no-trailing-spaces": "warn",
+    "key-spacing": [
+      "warn",
+      {
+        "beforeColon": false,
+        "afterColon": true
+      }
+    ],
+    "space-infix-ops": "warn",
+    "space-before-blocks": "warn",
+    "keyword-spacing": [
+      "warn",
+      {
+        "before": true,
+        "after": true
+      }
+    ],
+    "space-before-function-paren": [
+      "warn",
+      {
+        "anonymous": "always",
+        "named": "never",
+        "asyncArrow": "always"
+      }
+    ],
+    "no-var": "error",
+    "prefer-const": "warn",
+    "object-shorthand": "warn",
+    "array-callback-return": "warn",
+    "prefer-template": "warn",
+    "template-curly-spacing": [
+      "warn",
+      "never"
+    ],
+    "no-else-return": "warn",
+    "newline-before-return": "off",
+    "curly": [
+      "warn",
+      "all"
+    ]
+  }
+}
