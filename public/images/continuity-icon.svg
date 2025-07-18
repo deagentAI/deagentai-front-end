@@ -1,0 +1,19 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M60 30L85 45V75L60 90L35 75V45L60 30Z" stroke="#78E7FB" stroke-width="2" stroke-opacity="0.5"/>
+  <path d="M60 50L72.5 57.5V72.5L60 80L47.5 72.5V57.5L60 50Z" fill="url(#paint0_linear)" fill-opacity="0.3"/>
+  <path d="M60 50L72.5 57.5V72.5L60 80L47.5 72.5V57.5L60 50Z" stroke="#78E7FB" stroke-width="1.5"/>
+  <path d="M60 30V50" stroke="#78E7FB" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <path d="M60 80V90" stroke="#78E7FB" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <path d="M35 45L47.5 57.5" stroke="#78E7FB" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <path d="M85 45L72.5 57.5" stroke="#78E7FB" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <path d="M35 75L47.5 72.5" stroke="#78E7FB" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <path d="M85 75L72.5 72.5" stroke="#78E7FB" stroke-width="1.5" stroke-dasharray="3 3"/>
+  <circle cx="60" cy="65" r="5" stroke="#78E7FB" stroke-width="2"/>
+  <path d="M55 65H65" stroke="#78E7FB" stroke-width="2"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="47.5" y1="50" x2="72.5" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#78E7FB"/>
+      <stop offset="1" stop-color="#78E7FB" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+</svg>

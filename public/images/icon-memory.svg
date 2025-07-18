@@ -1,0 +1,17 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M40 16L56 24V56L40 64L24 56V24L40 16Z" stroke="#78E7FB" stroke-width="2" stroke-opacity="0.5"/>
+  <path d="M40 32L48 36V44L40 48L32 44V36L40 32Z" fill="url(#paint0_linear)" fill-opacity="0.3"/>
+  <path d="M40 32L48 36V44L40 48L32 44V36L40 32Z" stroke="#78E7FB" stroke-width="1"/>
+  <path d="M40 16V32" stroke="#78E7FB" stroke-width="1" stroke-dasharray="2 2"/>
+  <path d="M40 48V64" stroke="#78E7FB" stroke-width="1" stroke-dasharray="2 2"/>
+  <path d="M24 24L32 36" stroke="#78E7FB" stroke-width="1" stroke-dasharray="2 2"/>
+  <path d="M56 24L48 36" stroke="#78E7FB" stroke-width="1" stroke-dasharray="2 2"/>
+  <path d="M24 56L32 44" stroke="#78E7FB" stroke-width="1" stroke-dasharray="2 2"/>
+  <path d="M56 56L48 44" stroke="#78E7FB" stroke-width="1" stroke-dasharray="2 2"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="32" y1="32" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#78E7FB"/>
+      <stop offset="1" stop-color="#78E7FB" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+</svg>

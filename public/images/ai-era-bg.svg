@@ -1,0 +1,144 @@
+<svg width="1200" height="600" viewBox="0 0 1200 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景 -->
+  <rect width="1200" height="600" fill="url(#paint0_linear)"/>
+
+  <!-- 星空 -->
+  <g opacity="0.8">
+    <circle cx="120" cy="100" r="1" fill="white"/>
+    <circle cx="220" cy="150" r="1.5" fill="white"/>
+    <circle cx="320" cy="80" r="1" fill="white"/>
+    <circle cx="420" cy="200" r="1.5" fill="white"/>
+    <circle cx="520" cy="120" r="1" fill="white"/>
+    <circle cx="620" cy="180" r="1.5" fill="white"/>
+    <circle cx="720" cy="90" r="1" fill="white"/>
+    <circle cx="820" cy="220" r="1.5" fill="white"/>
+    <circle cx="920" cy="130" r="1" fill="white"/>
+    <circle cx="1020" cy="190" r="1.5" fill="white"/>
+    <circle cx="1120" cy="100" r="1" fill="white"/>
+
+    <circle cx="150" cy="250" r="1" fill="white"/>
+    <circle cx="250" cy="300" r="1.5" fill="white"/>
+    <circle cx="350" cy="230" r="1" fill="white"/>
+    <circle cx="450" cy="350" r="1.5" fill="white"/>
+    <circle cx="550" cy="270" r="1" fill="white"/>
+    <circle cx="650" cy="330" r="1.5" fill="white"/>
+    <circle cx="750" cy="240" r="1" fill="white"/>
+    <circle cx="850" cy="370" r="1.5" fill="white"/>
+    <circle cx="950" cy="280" r="1" fill="white"/>
+    <circle cx="1050" cy="340" r="1.5" fill="white"/>
+    <circle cx="1150" cy="250" r="1" fill="white"/>
+
+    <circle cx="180" cy="400" r="1" fill="white"/>
+    <circle cx="280" cy="450" r="1.5" fill="white"/>
+    <circle cx="380" cy="380" r="1" fill="white"/>
+    <circle cx="480" cy="500" r="1.5" fill="white"/>
+    <circle cx="580" cy="420" r="1" fill="white"/>
+    <circle cx="680" cy="480" r="1.5" fill="white"/>
+    <circle cx="780" cy="390" r="1" fill="white"/>
+    <circle cx="880" cy="520" r="1.5" fill="white"/>
+    <circle cx="980" cy="430" r="1" fill="white"/>
+    <circle cx="1080" cy="490" r="1.5" fill="white"/>
+    <circle cx="1180" cy="400" r="1" fill="white"/>
+  </g>
+
+  <!-- 行星 -->
+  <g filter="url(#filter0_f)">
+    <circle cx="900" cy="200" r="80" fill="url(#paint1_radial)"/>
+  </g>
+
+  <!-- 城市轮廓 -->
+  <path d="M0 500L50 480L100 490L150 470L200 480L250 460L300 470L350 450L400 460L450 440L500 450L550 430L600 440L650 420L700 430L750 410L800 420L850 400L900 410L950 390L1000 400L1050 380L1100 390L1150 370L1200 380V600H0V500Z" fill="url(#paint2_linear)"/>
+
+  <!-- 建筑物 -->
+  <rect x="100" y="400" width="20" height="100" fill="#1A0B4B"/>
+  <rect x="200" y="380" width="30" height="120" fill="#1A0B4B"/>
+  <rect x="300" y="350" width="25" height="150" fill="#1A0B4B"/>
+  <rect x="400" y="320" width="35" height="180" fill="#1A0B4B"/>
+  <rect x="500" y="370" width="28" height="130" fill="#1A0B4B"/>
+  <rect x="600" y="330" width="32" height="170" fill="#1A0B4B"/>
+  <rect x="700" y="360" width="22" height="140" fill="#1A0B4B"/>
+  <rect x="800" y="340" width="30" height="160" fill="#1A0B4B"/>
+  <rect x="900" y="310" width="40" height="190" fill="#1A0B4B"/>
+  <rect x="1000" y="350" width="25" height="150" fill="#1A0B4B"/>
+  <rect x="1100" y="380" width="30" height="120" fill="#1A0B4B"/>
+
+  <!-- 建筑物窗户 -->
+  <g opacity="0.6">
+    <rect x="105" y="420" width="10" height="5" fill="#78E7FB"/>
+    <rect x="105" y="440" width="10" height="5" fill="#78E7FB"/>
+    <rect x="105" y="460" width="10" height="5" fill="#78E7FB"/>
+    <rect x="105" y="480" width="10" height="5" fill="#78E7FB"/>
+
+    <rect x="205" y="400" width="10" height="5" fill="#78E7FB"/>
+    <rect x="215" y="400" width="10" height="5" fill="#78E7FB"/>
+    <rect x="205" y="420" width="10" height="5" fill="#78E7FB"/>
+    <rect x="215" y="420" width="10" height="5" fill="#78E7FB"/>
+    <rect x="205" y="440" width="10" height="5" fill="#78E7FB"/>
+    <rect x="215" y="440" width="10" height="5" fill="#78E7FB"/>
+    <rect x="205" y="460" width="10" height="5" fill="#78E7FB"/>
+    <rect x="215" y="460" width="10" height="5" fill="#78E7FB"/>
+    <rect x="205" y="480" width="10" height="5" fill="#78E7FB"/>
+    <rect x="215" y="480" width="10" height="5" fill="#78E7FB"/>
+
+    <rect x="305" y="370" width="10" height="5" fill="#78E7FB"/>
+    <rect x="305" y="390" width="10" height="5" fill="#78E7FB"/>
+    <rect x="305" y="410" width="10" height="5" fill="#78E7FB"/>
+    <rect x="305" y="430" width="10" height="5" fill="#78E7FB"/>
+    <rect x="305" y="450" width="10" height="5" fill="#78E7FB"/>
+    <rect x="305" y="470" width="10" height="5" fill="#78E7FB"/>
+    <rect x="305" y="490" width="10" height="5" fill="#78E7FB"/>
+
+    <rect x="405" y="340" width="10" height="5" fill="#78E7FB"/>
+    <rect x="420" y="340" width="10" height="5" fill="#78E7FB"/>
+    <rect x="405" y="360" width="10" height="5" fill="#78E7FB"/>
+    <rect x="420" y="360" width="10" height="5" fill="#78E7FB"/>
+    <rect x="405" y="380" width="10" height="5" fill="#78E7FB"/>
+    <rect x="420" y="380" width="10" height="5" fill="#78E7FB"/>
+    <rect x="405" y="400" width="10" height="5" fill="#78E7FB"/>
+    <rect x="420" y="400" width="10" height="5" fill="#78E7FB"/>
+    <rect x="405" y="420" width="10" height="5" fill="#78E7FB"/>
+    <rect x="420" y="420" width="10" height="5" fill="#78E7FB"/>
+    <rect x="405" y="440" width="10" height="5" fill="#78E7FB"/>
+    <rect x="420" y="440" width="10" height="5" fill="#78E7FB"/>
+    <rect x="405" y="460" width="10" height="5" fill="#78E7FB"/>
+    <rect x="420" y="460" width="10" height="5" fill="#78E7FB"/>
+    <rect x="405" y="480" width="10" height="5" fill="#78E7FB"/>
+    <rect x="420" y="480" width="10" height="5" fill="#78E7FB"/>
+  </g>
+
+  <!-- 悬浮环形结构 -->
+  <g filter="url(#filter1_d)">
+    <path d="M700 200C700 210.493 690.493 220 680 220C669.507 220 660 210.493 660 200C660 189.507 669.507 180 680 180C690.493 180 700 189.507 700 200Z" stroke="#78E7FB" stroke-width="2"/>
+    <path d="M740 200C740 232.033 713.137 258 680 258C646.863 258 620 232.033 620 200C620 167.967 646.863 142 680 142C713.137 142 740 167.967 740 200Z" stroke="#78E7FB" stroke-opacity="0.5" stroke-width="2"/>
+    <path d="M780 200C780 253.572 735.228 297 680 297C624.772 297 580 253.572 580 200C580 146.428 624.772 103 680 103C735.228 103 780 146.428 780 200Z" stroke="#78E7FB" stroke-opacity="0.3" stroke-width="2"/>
+  </g>
+
+  <defs>
+    <filter id="filter0_f" x="720" y="20" width="360" height="360" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="50" result="effect1_foregroundBlur"/>
+    </filter>
+    <filter id="filter1_d" x="575" y="98" width="210" height="204" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+      <feOffset/>
+      <feGaussianBlur stdDeviation="2"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.471 0 0 0 0 0.906 0 0 0 0 0.984 0 0 0 0.5 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+    <linearGradient id="paint0_linear" x1="600" y1="0" x2="600" y2="600" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D0620"/>
+      <stop offset="1" stop-color="#1A0B4B"/>
+    </linearGradient>
+    <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(900 200) rotate(90) scale(80)">
+      <stop stop-color="#FF6B6B"/>
+      <stop offset="1" stop-color="#FF6B6B" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="paint2_linear" x1="600" y1="370" x2="600" y2="600" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1A0B4B"/>
+      <stop offset="1" stop-color="#0D0620"/>
+    </linearGradient>
+  </defs>
+</svg>
